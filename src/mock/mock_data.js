@@ -35,20 +35,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/github.com"
         },
         {
-          "id": "site-1765172736134",
-          "name": "天诚交流群",
-          "url": "https://t.me/zyssadmin",
-          "description": "天诚交流群直达",
-          "icon": "https://www.faviconextractor.com/favicon/t.me"
-        },
-        {
-          "id": "site-1765172766263",
-          "name": "天诚频道",
-          "url": "https://t.me/cloudflareorg",
-          "description": "天诚频道直达",
-          "icon": "https://www.faviconextractor.com/favicon/t.me"
-        },
-        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
