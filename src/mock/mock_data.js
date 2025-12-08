@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1765209626024",
+          "name": "发布页",
+          "url": "https://de5.baoge456.de5.net/",
+          "description": "宝哥整理维护",
+          "icon": "https://www.faviconextractor.com/favicon/de5.baoge456.de5.net"
+        },
+        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
