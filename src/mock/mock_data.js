@@ -9,9 +9,9 @@ export const mockData = {
         {
           "id": "site-1765209626024",
           "name": "发布页",
-          "url": "https://de5.baoge456.de5.net/",
+          "url": "https://fby.baoge456.dpdns.org/",
           "description": "宝哥整理维护",
-          "icon": "https://www.faviconextractor.com/favicon/de5.baoge456.de5.net"
+          "icon": "https://www.faviconextractor.com/favicon/fby.baoge456.dpdns.org"
         },
         {
           "id": "linux-do",
